@@ -1,4 +1,10 @@
 1 - O que é um clone?
+uma cópia do repodsitorio local para a pasta
+
 2 - O que é um commit?
+Empacotamento de alterações
+
 3 - O que é um repositorio?
+é uma pasta onde ficam os arquivos do projeto
+
 4 - O que é um pull?
