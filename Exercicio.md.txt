@@ -8,3 +8,4 @@ Empacotamento de alterações
 é uma pasta onde ficam os arquivos do projeto
 
 4 - O que é um pull?
+.
